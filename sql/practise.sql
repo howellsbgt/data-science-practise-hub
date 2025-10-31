@@ -1,5 +1,8 @@
 sqlite3 practice.db
-
+'''
+    Mainly working through the problems on SQLZoo
+'''
+    
 CREATE TABLE sales (
     id INTEGER PRIMARY KEY,
     name TEXT,
