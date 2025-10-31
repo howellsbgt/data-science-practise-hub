@@ -9,9 +9,9 @@ It combines theory notes, coding practice, and mini case studies.
 ## Contents
 - `python/` – Core syntax, data manipulation, and coding exercises.
 - `sql/` – Query practice, window functions, and analytical examples.
-- `statistics/` – Key distributions, tests, and regression intuition.
-- `machine_learning/` – Common algorithms and model evaluation concepts.
-- `business_cases/` – Problem-solving examples and applied case studies.
+#- `statistics/` – Key distributions, tests, and regression intuition.
+#- `machine_learning/` – Common algorithms and model evaluation concepts.
+#- `business_cases/` – Problem-solving examples and applied case studies.
 - `cheatsheets/` – Compact references for quick review.
 
 ## Goal
