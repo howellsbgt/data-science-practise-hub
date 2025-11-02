@@ -10,6 +10,7 @@ It combines theory notes, coding practice, and mini case studies.
 - `python/` – Core syntax, data manipulation, and coding exercises.
 - `sql/` – Query practice, window functions, and analytical examples.
 - `cheatsheets/` – Compact references for quick review.
+- `Streaming_analytics` - Data analytics project based on fictional user data (Kaggle)
 
 ## Goal
 To consolidate and practice the **core concepts and coding skills** needed for:
